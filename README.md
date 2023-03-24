@@ -8,7 +8,7 @@ Time spent: **6** hours spent in total
 
 ## Summary
 
-**TipCalculator** is an android app that **will calculate your total bill after tip*
+**TipCalculator** is an android app that **will calculate your total bill after tip**
 
 If I had to describe this project in three (3) emojis, they would be: **🧮➕✖️**
 
