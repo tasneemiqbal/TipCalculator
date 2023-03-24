@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://github.com/tasneemiqbal/TipCalculator/blob/8d0066938fbb1e11f377c8137d8b662171c3ef3d/TipCalc.gif' title='Video Demo' width='150' alt='Video Demo' />
+<img src='https://github.com/tasneemiqbal/TipCalculator/blob/8d0066938fbb1e11f377c8137d8b662171c3ef3d/TipCalc.gif' title='Video Demo' width='180' alt='Video Demo' />
 
 GIF created with **Kap**
 
