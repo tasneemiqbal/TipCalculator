@@ -25,11 +25,6 @@ The following REQUIRED features are completed:
 The following STRETCH features are implemented:
 
 - [x] Implement ViewBinding to reduce boilerplate code and increase efficiency
-- [ ] Add at least one (1) additional functionality
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
@@ -39,14 +34,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 GIF created with **Kap**
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
 
