@@ -5,7 +5,7 @@ import android.os.Bundle
 
 import com.example.tipcalculator.databinding.ActivityMainBinding
 import java.text.NumberFormat
-import kotlin.math.ceil
+
 
 class MainActivity : AppCompatActivity() {
 
@@ -31,9 +31,9 @@ class MainActivity : AppCompatActivity() {
     {
 
         val cost : Double = binding.billAmount.text.toString().toDouble()
-        val tipPercentage : Double = binding.billAmount.text.toString().toDouble()
-        var total :Double = ((100 + tipPercentage) / 100 ) * cost
-        total = ceil(total)
+        val tipPercentage : Double = binding.tip.text.toString().toDouble()
+        val total :Double = ( (tipPercentage + 100) / 100 ) * cost
+
         //bind totalTip textview to text
         val currencyTip : String = NumberFormat.getCurrencyInstance().format(total)
         binding.totalTip.text = getString(R.string.tip_amount2, currencyTip)
